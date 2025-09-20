@@ -4,7 +4,7 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
 
 ## Topology
 
-![Topology](./attachments/imp_lab1/IMP_Lab_Topology.png)
+![Topology]<img src="attachments/imp_lab1/IMP_Lab_Topology.png" />
 
 ## Users
 
