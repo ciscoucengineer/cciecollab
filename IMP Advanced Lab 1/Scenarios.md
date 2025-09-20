@@ -19,6 +19,17 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
   - Password: Cisco123
   - Pin: 12345
 
+## Pre-requisites
+
+- Create users in AD
+  - Add telephone 
+    - telephone is configured with the extension
+    - ipPhone is configured with +E.164
+  - Add contact photo
+- Import Root CA cert in to PC Cert Trust Store
+- Create HQ Phone 1 and HQ Phone 2 end users in Unified CM
+- Unity Connection integration (SIP)
+
 ## Requirements
 
 1. Users should authenticate against LDAP
