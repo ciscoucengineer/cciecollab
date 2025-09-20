@@ -4,7 +4,7 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
 
 ## Topology
 
-![Topology](attachments/imp_lab1/IMP_Lab_Topology.png)
+![Topology][def]
 
 ## Users
 
@@ -26,3 +26,5 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
 3. Voicemail should be available
 4. Contact search for all sites should resolve
 5. Phone control should be available
+
+[def]: ./attachments/imp_lab1/IMP_Lab_Topology.png
