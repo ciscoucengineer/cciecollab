@@ -4,7 +4,7 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
 
 ## Topology
 
-![Topology][def]
+<img src="./attachments/imp_lab1/IMP_Lab_Topology.png" alt="Topology" />
 
 ## Users
 
@@ -27,4 +27,3 @@ You have been hired as a SR. Cisco Collaborations Engineer for the Window Licker
 4. Contact search for all sites should resolve
 5. Phone control should be available
 
-[def]: ./attachments/imp_lab1/IMP_Lab_Topology.png
