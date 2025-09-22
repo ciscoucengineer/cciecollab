@@ -12,6 +12,15 @@ The goal the company has set is to enable employees to communicate instantly, sh
 
 ![Topology](../attachments/imp_lab1/IMP_Lab_Topology.png)
 
+## Application Versions
+
+| UC Application| UC Application Version| Administrator User Name | Password|
+|--------------:|----------------------:|------------------------:|:--------|
+| Unified Communications Manager| 15.0 SU3a| administrator| cciecollab|
+| Unified Communications Manager IM and Presence| 15.0 SU3| administrator| cciecollaB|
+| Unity Connection| 15.0 SU3| administrator| cciecollab|
+| Cisco Jabber| 15.1.(1) | N/A| N/A|
+
 ## Users
 
 - HQ Phone 1
@@ -28,7 +37,7 @@ The goal the company has set is to enable employees to communicate instantly, sh
 ## Pre-requisites
 
 - Create users in AD
-  - Add telephone 
+  - Add telephone
     - telephone is configured with the extension
     - ipPhone is configured with +E.164
   - Add contact photo
@@ -43,4 +52,3 @@ The goal the company has set is to enable employees to communicate instantly, sh
 3. Voicemail should be available
 4. Contact search for all sites should resolve
 5. Phone control should be available
-
